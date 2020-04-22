@@ -5,6 +5,6 @@ _Sistemas administrativo Facil_
 
 ### TRABAJE DESDE CASA
 
-PULSAME AQUI [ instalador](https://github.com/darwinuzcategui1973/INSTALADOR_SISTEMA_ADMINITRATIVO_LIGT/ "GMD ADMINISTRATIVO").
+**PULSE AQUI** [ _instalador_](https://github.com/darwinuzcategui1973/INSTALADOR_SISTEMA_ADMINITRATIVO_LIGT/raw/master/INSTALADOR_Adminitrativo_Original_LIGHT.exe/ "GMD ADMINISTRATIVO").
 
 ![SISTEMA ADMINITRATIVIO GMD LIGHT](https://github.com/darwinuzcategui1973/INSTALADOR_SISTEMA_ADMINITRATIVO_LIGT/blob/master/imagen01.jpeg)
